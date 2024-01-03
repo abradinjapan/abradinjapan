@@ -2,4 +2,6 @@
 
 I'm Bradford Shapleigh.
 
-My specialties are compiler design, c++, python and teaching.
+My specialties are Compiler Design, C++, Python.
+
+I have taught Python, JavaScript and Roblox Lua.
